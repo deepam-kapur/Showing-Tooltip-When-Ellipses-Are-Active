@@ -2,7 +2,7 @@
 Showing tooltip only when ellipses are active dynamically in AngularJS. Guide to directly include the directive code into your project or you can clone this project to test the feature and customize according to your needs.
 
 ## Clone the repository:
-	git clone https://github.com/deepam-kapur/ShowingTooltipWhenEllipsesAreActive.git
+	git clone https://github.com/deepam-kapur/Showing-Tooltip-When-Ellipses-Are-Active.git
 
 The completed solution is in the 'master' branch.  To see it in action deploy the code to your server of choice and view index.html.
 
